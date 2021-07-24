@@ -8,7 +8,7 @@ Quer saber mais? Entre em contato comigo [![Linkedin Badge](https://img.shields.
 
 
 
-# Hey :wave:
+# Hey for non-Portuguese speakers :wave:
 
 I'm ~~Maria~~ Fernanda Michett and I'm 24y/o. Here you can see all my projects and exercises, while I become a web developer. 
 
