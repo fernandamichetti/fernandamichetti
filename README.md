@@ -1,6 +1,6 @@
 # Olá! :wave:
 
-Me chamo ~~Maria~~ Fernanda Michetti e tenho 24 anos. Aqui você poderá acompanhar minha evolução enquanto me torno uma desenvolvedora web.
+Me chamo ~~Maria~~ Fernanda Michetti e tenho 25 anos. Aqui você poderá acompanhar minha evolução enquanto me torno uma desenvolvedora web.
 
 Atualmente estudo 30 horas semanais na [Trybe](https://www.betrybe.com) e você pode encontrar o currículo completo, além dos meus exercícios realizando ao logo do curso: [aqui](https://github.com/fernandamichetti/trybe-exercicios).
 
@@ -8,7 +8,7 @@ Quer saber mais? Entre em contato comigo [![Linkedin Badge](https://img.shields.
 
 # Hey for non-Portuguese speakers :wave:
 
-I'm ~~Maria~~ Fernanda Michett and I'm 24y/o. Here you can track my progress while I become a web developer.
+I'm ~~Maria~~ Fernanda Michett and I'm 25y/o. Here you can track my progress while I become a web developer.
 
 Nowdays I study 30 hours per week at [Trybe](https://www.betrybe.com) and you can find the complete curriculum, as well as all the exercises that I'll be doing during the course [here](https://github.com/fernandamichetti/trybe-exercicios).
 
