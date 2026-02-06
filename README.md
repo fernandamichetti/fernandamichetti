@@ -1,12 +1,12 @@
 # Olá! :wave:
 
-Me chamo Fernanda Michetti e tenho 28 anos. Aqui você pode ver os projetos que eu estou envolvida e acompanhar meus estudos!
+Me chamo Fernanda Michetti e tenho 29 anos. Aqui você pode ver os projetos que eu estou envolvida e acompanhar meus estudos!
 
 Quer saber mais? Entre em contato comigo [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/mariafernandamichetti/)
 
 # Hey for non-Portuguese speakers :wave:
 
-I'm Fernanda Michett and I'm 28y/o. Here you can take a look at all the projects that I'm involved as well as keep track of my studies!
+I'm Fernanda Michett and I'm 29y/o. Here you can take a look at all the projects that I'm involved as well as keep track of my studies!
 
 Want to know more? You can reach me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/mariafernandamichetti/)
 
